@@ -20,6 +20,8 @@ class CreditCard
   def to_json
     {
       # TODO: setup the hash with all instance vairables to serialize into json
+
+
     }.to_json
   end
 
